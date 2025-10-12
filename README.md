@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img width="750" height="750" alt="icon" src="https://github.com/user-attachments/assets/73fc87fc-0a95-4ae4-bb63-0b45b89d808e" />
+<img width="250" height="250" alt="icon" src="https://github.com/user-attachments/assets/73fc87fc-0a95-4ae4-bb63-0b45b89d808e" />
 
 **Automatische Proposal-Zusammenfassungen für die Qubic-Community in 13 Sprachen**
 
