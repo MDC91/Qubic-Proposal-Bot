@@ -2,12 +2,10 @@
 
 <div align="center">
   
+**Automatische Proposal-Zusammenfassungen für die Qubic-Community in 13 Sprachen**  
 <img width="250" height="250" alt="icon" src="https://github.com/user-attachments/assets/73fc87fc-0a95-4ae4-bb63-0b45b89d808e" />
 
-**Automatische Proposal-Zusammenfassungen für die Qubic-Community in 13 Sprachen**
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/qubic)
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/your-channel)
 
 </div>
 
