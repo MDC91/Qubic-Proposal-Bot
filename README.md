@@ -1,8 +1,8 @@
 # 🤖 Qubic Proposal Bot
 
 <div align="center">
-
-![Qubic Logo](https://raw.githubusercontent.com/your-username/your-repo/main/assets/logo.png) <!-- Platzhalter für Logo -->
+  
+<img width="1750" height="1750" alt="icon" src="https://github.com/user-attachments/assets/73fc87fc-0a95-4ae4-bb63-0b45b89d808e" />
 
 **Automatische Proposal-Zusammenfassungen für die Qubic-Community in 13 Sprachen**
 
