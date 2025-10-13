@@ -108,7 +108,7 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 - `channel`: Der Kanal für Proposal-Zusammenfassungen
 - `language`: Sprache für die Zusammenfassungen
 
-</div>
+</div>```
 
 **<ins>`/info` - Bot-Status anzeigen</ins>**\
 **Beschreibung:** Zeigt detaillierte Informationen über den Bot-Status  
