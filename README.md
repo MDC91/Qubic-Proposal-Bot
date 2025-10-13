@@ -6,10 +6,22 @@
 <img width="250" height="250" alt="icon" src="https://github.com/user-attachments/assets/73fc87fc-0a95-4ae4-bb63-0b45b89d808e" />
 
 
-- [🚀 Über das Projekt](##🚀 Über das Projekt)
-  - [Unterkapitel 1.1](#unterkapitel-11)
-  - [Unterkapitel 1.2](#unterkapitel-12)
+## 📖 Inhaltsverzeichnis
 
+- [🚀 Über das Projekt](#-über-das-projekt)
+- [🏗️ Architektur & Technologie](#️-architektur--technologie)
+- [📋 Unterstützte Sprachen](#-unterstützte-sprachen)
+- [🎯 Funktionen im Detail](#-funktionen-im-detail)
+- [💬 Discord Verwendung](#-discord-verwendung)
+  - [Bot zu Ihrem Server hinzufügen](#bot-zu-ihrem-server-hinzufügen)
+  - [Discord Befehle](#discord-befehle)
+- [📱 Telegram Verwendung](#-telegram-verwendung)
+  - [Bot zu Ihrer Gruppe hinzufügen](#bot-zu-ihrer-gruppe-hinzufügen)
+  - [Telegram Befehle](#telegram-befehle)
+- [⚙️ Konfiguration](#️-konfiguration)
+- [⚙️ State Management](#️-state-management)
+- [❓ Häufig gestellte Fragen (FAQ)](#-häufig-gestellte-fragen-faq)
+- [🛠️ Support](#️-support)
 </div>
 
 ## 🚀 Über das Projekt
