@@ -94,22 +94,19 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 ## 💬 Discord Verwendung
 
 ### Bot zu Ihrem Server hinzufügen
-1. **Einladungslink** verwenden: [https://discord.com/oauth2/authorize?client_id=1400149716385267835&permissions=2147568640&integration_type=0&scope=applications.commands+bot]
-2. **Admin-Berechtigungen** gewähren für den gewünschten Kanal
+1. [**Einladungslink**](https://discord.com/oauth2/authorize?client_id=1400149716385267835&permissions=2147568640&integration_type=0&scope=applications.commands+bot) verwenden
+2. **Admin-Berechtigungen** gewähren und den Bot im gewünschten Kanal hinzufügen
 3. **Setup durchführen** mit `/setup`
 
 ### Discord Befehle
 
-#### `/setup` - Bot konfigurieren
+#### __`/setup` - Bot konfigurieren__
 **Beschreibung:** Richtet den Bot für Ihren Server ein  
 **Parameter:**
 - `channel`: Der Kanal, in dem Proposal-Zusammenfassungen erscheinen sollen
 - `language`: Sprache für die Zusammenfassungen (Dropdown-Auswahl)
 
-**Beispiel:**
-/setup channel: #proposals language: 🇩🇪 Deutsch
-
-#### `/info` - Bot-Status anzeigen
+#### __`/info` - Bot-Status anzeigen__
 **Beschreibung:** Zeigt detaillierte Informationen über den Bot-Status  
 
 
@@ -121,7 +118,7 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 - Bot Uptime
 - Check-Interval
 
-#### `/help` - Hilfe anzeigen
+#### __`/help` - Hilfe anzeigen__
 **Beschreibung:** Zeigt ausführliche Hilfe und Anleitung  
 
 #### `/test_check` - Manuelle Proposal-Überprüfung
