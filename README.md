@@ -100,11 +100,15 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 
 ### Discord Befehle
 
-<table><tr><td> **<ins>`/setup` - Bot konfigurieren</ins>**\
+<div class="command-box" style="background: #f8f9fa; padding: 16px; border-radius: 8px; border: 1px solid #e1e4e8; margin: 12px 0;">
+
+#### ⚙️ `/setup` - Bot konfigurieren
 **Beschreibung:** Richtet den Bot für Ihren Server ein  
 **Parameter:**
-- `channel`: Der Kanal, in dem Proposal-Zusammenfassungen erscheinen sollen
-- `language`: Sprache für die Zusammenfassungen (Dropdown-Auswahl) </td></tr></table>
+- `channel`: Der Kanal für Proposal-Zusammenfassungen
+- `language`: Sprache für die Zusammenfassungen
+
+</div>
 
 **<ins>`/info` - Bot-Status anzeigen</ins>**\
 **Beschreibung:** Zeigt detaillierte Informationen über den Bot-Status  
