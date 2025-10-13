@@ -100,7 +100,7 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 
 ### Discord Befehle
 
-**<ins>`/setup` - Bot konfigurieren</ins>**
+**<ins>`/setup` - Bot konfigurieren</ins>**\
 **Beschreibung:** Richtet den Bot für Ihren Server ein  
 **Parameter:**
 - `channel`: Der Kanal, in dem Proposal-Zusammenfassungen erscheinen sollen
