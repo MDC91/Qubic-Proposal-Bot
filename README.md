@@ -122,7 +122,7 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 | **Befehl** | **Beschreibung** | **Parameter** |
 |------------|------------------|---------------|
 | ❔ `/start` oder `/help` | Hilfe anzeigen | Ausführliche Hilfe und Anleitung |
-| ⚙️ `/setup` | Öffnet ein Inline Keyboard zur Sprachauswahl | 1. Befehl `/setup` senden<br>2. Inline Keyboard mit Sprachoptionen erscheint<br>3. Gewünschte Sprache auswählen<br>4. Bot bestätigt die Einrichtung |
+| ⚙️ `/setup` | Öffnet ein Inline Keyboard zur Sprachauswahl | • Inline Keyboard mit Sprachoptionen<br>• Gewünschte Sprache auswählen |
 | ℹ️ `/info`  | Zeigt detaillierte Informationen über den Bot-Status | • Konfigurierter Chat und Sprache<br>• Aktuelle Epoche<br>• Anzahl aktiver Proposals<br>• DeepSeek API Status<br>• Bot Uptime<br>• Check-Interval |
 
 
