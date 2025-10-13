@@ -8,6 +8,7 @@
 </div>
 
 ## 📖 Inhaltsverzeichnis
+---
 
 - [🚀 Über das Projekt](#-über-das-projekt)
 - [🏗️ Architektur & Technologie](#️-architektur--technologie)
@@ -26,6 +27,7 @@
 
 
 ## 🚀 Über das Projekt
+---
 
 Der **Qubic Proposal Bot** ist ein speziell für die Qubic-Community entwickelter Bot, der automatisch neue Governance-Proposals erkennt, mittels KI in 13 verschiedenen Sprachen zusammenfasst und in Discord-Servern und Telegram-Gruppen veröffentlicht.
 
@@ -100,43 +102,12 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 
 ### Discord Befehle
 
-> **⚙️ `/setup` - Bot konfigurieren**  
-> **Beschreibung:** Richtet den Bot für Ihren Server ein  
-> **Parameter:**
-> - `channel`: Der Kanal für Proposal-Zusammenfassungen
-> - `language`: Sprache für die Zusammenfassungen
-
-```text
-🤖 BEFEHL: /setup - Bot konfigurieren
-─────────────────────────────────────
-Beschreibung: Richtet den Bot für Ihren Server ein
-Parameter:
-  • channel:  Der Kanal für Proposal-Zusammenfassungen
-  • language: Sprache für die Zusammenfassungen
-
-Beispiel: /setup channel: #proposals language: 🇩🇪 Deutsch
-```
-
 | **Befehl** | **Beschreibung** | **Parameter** |
 |------------|------------------|---------------|
 | ⚙️ `/setup` | Richtet den Bot für Ihren Server ein | • `channel`: Der Kanal für Proposal-Zusammenfassungen<br>• `language`: Sprache für die Zusammenfassungen |
 | ℹ️ `/info`  | Zeigt detaillierte Informationen über den Bot-Status | • Konfigurierter Kanal und Sprache<br>• Aktuelle Epoche<br>• Anzahl aktiver Proposals<br>• DeepSeek API Status<br>• Bot Uptime<br>• Check-Interval |
-| ❔ `/help`   | Hilfe anzeigen | Ausführliche Hilfe und ANleitung |
+| ❔ `/help`   | Hilfe anzeigen | Ausführliche Hilfe und Anleitung |
 
-**<ins>`/info` - Bot-Status anzeigen</ins>**\
-**Beschreibung:** Zeigt detaillierte Informationen über den Bot-Status  
-
-
-**Ausgabe zeigt:**
-- Konfigurierter Kanal und Sprache
-- Aktuelle Epoche
-- Anzahl aktiver Proposals
-- DeepSeek API Status
-- Bot Uptime
-- Check-Interval
-
-**<ins>`/help` - Hilfe anzeigen</ins>**\
-**Beschreibung:** Zeigt ausführliche Hilfe und Anleitung  
 
 #### `/test_check` - Manuelle Proposal-Überprüfung
 **Beschreibung:** Löst eine sofortige Proposal-Überprüfung für diesen Server aus 
@@ -154,28 +125,16 @@ Beispiel: /setup channel: #proposals language: 🇩🇪 Deutsch
 
 ### Telegram Befehle
 
-**<ins>`/start` oder `/help` - Hilfe anzeigen</ins>**\
-**Beschreibung:** Startet den Bot und zeigt ausführliche Hilfe  
+| **Befehl** | **Beschreibung** | **Parameter** |
+|------------|------------------|---------------|
+| ❔ `/start` oder `/help` | Startet den Bot und zeigt ausführliche Hilfe | |
+| ⚙️ `/setup` | Öffnet ein Inline Keyboard zur Sprachauswahl | 1. Befehl `/setup` senden<br>2. Inline Keyboard mit Sprachoptionen erscheint<br>3. Gewünschte Sprache auswählen<br>4. Bot bestätigt die Einrichtung |
+| ℹ️ `/info`  | Zeigt detaillierte Informationen über den Bot-Status | • Konfigurierter Chat und Sprache<br>• Aktuelle Epoche<br>• Anzahl aktiver Proposals<br>• DeepSeek API Status<br>• Bot Uptime<br>• Check-Interval |
 
-**<ins>`/setup` - Bot konfigurieren</ins>**\
-**Beschreibung:** Öffnet ein Inline Keyboard zur Sprachauswahl  
-**Prozess:**
-1. Befehl `/setup` senden
-2. Inline Keyboard mit Sprachoptionen erscheint
-3. Gewünschte Sprache auswählen
-4. Bot bestätigt die Einrichtung
-
-**<ins>`/info` - Bot-Status anzeigen</ins>**\
-**Beschreibung:** Zeigt detaillierte Informationen über den Bot-Status  
+  
 
 
-**Ausgabe zeigt:**
-- Konfigurierter Chat und Sprache
-- Aktuelle Epoche
-- Anzahl aktiver Proposals
-- DeepSeek API Status
-- Bot Uptime
-- Check-Interval 
+
 
 #### `/test_check` - Manuelle Proposal-Überprüfung
 **Beschreibung:** Startet sofortige Proposal-Überprüfung für diese Gruppe  
