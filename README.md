@@ -114,7 +114,7 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 2. **Zur Gruppe hinzufügen** als Administrator
 3. **Setup durchführen** im gewünschten Chat mit `/setup`
 
-> [!WICHTIG]
+> [!IMPORTANT]
 > Der `/setup` Befehl <ins>**muss**</ins> in dem Chat genutzt werden in dem auch die Zusammenfassungen gepostet werden sollen.
 
 ### Telegram Befehle
