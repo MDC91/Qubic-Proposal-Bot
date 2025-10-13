@@ -1,5 +1,5 @@
 # 🤖 Qubic Proposal Bot
-##**Automatische Proposal-Zusammenfassungen für die Qubic-Community in 13 Sprachen** 
+## **Automatische Proposal-Zusammenfassungen für die Qubic-Community in 13 Sprachen** 
 
 <div align="center">
   
