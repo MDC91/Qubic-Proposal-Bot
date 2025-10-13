@@ -110,9 +110,11 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 ## 📱 Telegram Verwendung
 
 ### Bot zu Ihrer Gruppe hinzufügen
-1. **Bot suchen:** `@QubicTranslationBot`
-2. **Zur Gruppe hinzufügen** als Administrator
-3. **Setup durchführen** im gewünschten Chat mit `/setup`
+1. **Gruppe verwalten** 
+2. **Mitglieder hinzufügen**
+3. **Bot suchen:** `@QubicTranslationBot`
+4. **Zur Gruppe hinzufügen** als Administrator
+5. **Setup durchführen** im gewünschten Chat mit `/setup`
 
 > [!IMPORTANT]
 > Der `/setup` Befehl <ins>**muss**</ins> in dem Chat genutzt werden in dem auch die Zusammenfassungen gepostet werden sollen.
