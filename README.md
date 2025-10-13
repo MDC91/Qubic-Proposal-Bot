@@ -112,7 +112,10 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 ### Bot zu Ihrer Gruppe hinzufügen
 1. **Bot suchen:** `@QubicTranslationBot`
 2. **Zur Gruppe hinzufügen** als Administrator
-3. **Setup durchführen** mit `/setup`
+3. **Setup durchführen** im gewünschten Chat mit `/setup`
+
+> [!IMPORTANT]
+> Der `/setup` Befehl <ins>**muss**</ins> in dem Chat genutzt werden in dem auch die Zusammenfassungen gepostet werden sollen.
 
 ### Telegram Befehle
 
@@ -121,6 +124,8 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 | ❔ `/start` oder `/help` | Hilfe anzeigen | Ausführliche Hilfe und Anleitung |
 | ⚙️ `/setup` | Öffnet ein Inline Keyboard zur Sprachauswahl | 1. Befehl `/setup` senden<br>2. Inline Keyboard mit Sprachoptionen erscheint<br>3. Gewünschte Sprache auswählen<br>4. Bot bestätigt die Einrichtung |
 | ℹ️ `/info`  | Zeigt detaillierte Informationen über den Bot-Status | • Konfigurierter Chat und Sprache<br>• Aktuelle Epoche<br>• Anzahl aktiver Proposals<br>• DeepSeek API Status<br>• Bot Uptime<br>• Check-Interval |
+
+
 
 
 ## ⚙️ State Management
