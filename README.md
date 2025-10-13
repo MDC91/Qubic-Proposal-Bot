@@ -106,7 +106,7 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 - `channel`: Der Kanal, in dem Proposal-Zusammenfassungen erscheinen sollen
 - `language`: Sprache für die Zusammenfassungen (Dropdown-Auswahl)
 
-#### __`/info` - Bot-Status anzeigen__
+**<ins>`/info` - Bot-Status anzeigen</ins>**\
 **Beschreibung:** Zeigt detaillierte Informationen über den Bot-Status  
 
 
@@ -118,7 +118,7 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 - Bot Uptime
 - Check-Interval
 
-#### __`/help` - Hilfe anzeigen__
+**<ins>`/help` - Hilfe anzeigen</ins>**\
 **Beschreibung:** Zeigt ausführliche Hilfe und Anleitung  
 
 #### `/test_check` - Manuelle Proposal-Überprüfung
@@ -137,10 +137,10 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 
 ### Telegram Befehle
 
-#### `/start` oder `/help` - Hilfe anzeigen
+**<ins>`/start` oder `/help` - Hilfe anzeigen</ins>**\
 **Beschreibung:** Startet den Bot und zeigt ausführliche Hilfe  
 
-#### `/setup` - Bot konfigurieren
+**<ins>`/setup` - Bot konfigurieren</ins>**\
 **Beschreibung:** Öffnet ein Inline Keyboard zur Sprachauswahl  
 **Prozess:**
 1. Befehl `/setup` senden
@@ -148,8 +148,17 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 3. Gewünschte Sprache auswählen
 4. Bot bestätigt die Einrichtung
 
-#### `/info` - Bot-Status anzeigen
-**Beschreibung:** Zeigt aktuellen Bot-Status und Konfiguration  
+**<ins>`/info` - Bot-Status anzeigen</ins>**\
+**Beschreibung:** Zeigt detaillierte Informationen über den Bot-Status  
+
+
+**Ausgabe zeigt:**
+- Konfigurierter Chat und Sprache
+- Aktuelle Epoche
+- Anzahl aktiver Proposals
+- DeepSeek API Status
+- Bot Uptime
+- Check-Interval 
 
 #### `/test_check` - Manuelle Proposal-Überprüfung
 **Beschreibung:** Startet sofortige Proposal-Überprüfung für diese Gruppe  
