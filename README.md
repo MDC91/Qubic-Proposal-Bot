@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<font size="4"> **Automatische Proposal-Zusammenfassungen<br>für die Qubic-Community in 13 Sprachen** </font>
+<font size="8"> **Automatische Proposal-Zusammenfassungen<br>für die Qubic-Community in 13 Sprachen** </font>
  
 <img width="250" height="250" alt="icon" src="https://github.com/user-attachments/assets/73fc87fc-0a95-4ae4-bb63-0b45b89d808e" />
 
