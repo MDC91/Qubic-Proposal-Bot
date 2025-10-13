@@ -3,8 +3,8 @@
 <div align="center">
   
 ### **Automatische Proposal-Zusammenfassungen<br>für die Qubic-Community in 13 Sprachen**
- 
-<img width="250" height="250" alt="icon" src="https://github.com/user-attachments/assets/73fc87fc-0a95-4ae4-bb63-0b45b89d808e" />
+
+<img width="250" height="250" alt="icon_2" src="https://github.com/user-attachments/assets/c960ae79-b84e-4b65-b540-360528faf126" />
 
 </div>
 
