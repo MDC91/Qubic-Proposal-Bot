@@ -19,7 +19,6 @@
 - [📱 Telegram Verwendung](#-telegram-verwendung)
   - [Bot zu Ihrer Gruppe hinzufügen](#bot-zu-ihrer-gruppe-hinzufügen)
   - [Telegram Befehle](#telegram-befehle)
-- [⚙️ Konfiguration](#️-konfiguration)
 - [⚙️ State Management](#️-state-management)
 - [❓ Häufig gestellte Fragen (FAQ)](#-häufig-gestellte-fragen-faq)
 - [🛠️ Support](#️-support)
