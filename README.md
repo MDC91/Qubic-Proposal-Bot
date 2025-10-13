@@ -68,7 +68,7 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 
 ### 🔄 Robuste State-Verwaltung
 - **Per-Server/Per-Chat State** - Jede Community verwaltet ihren eigenen Status
-- **GitHub-Persistenz** - Zustände über Neustarts hinweg erhalten
+- **GitHub-Persistenz** - Zustände bleiben über Neustarts hinweg erhalten
 - **Automatische Bereinigung** - Entfernt veraltete Epoch-Daten
 
 ### 🌐 Multi-Plattform Support
