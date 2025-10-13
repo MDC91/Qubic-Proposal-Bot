@@ -94,7 +94,7 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 ## 💬 Discord Verwendung
 
 ### Bot zu Ihrem Server hinzufügen
-1. **Einladungslink** verwenden: [Bot-Einladungslink hier einfügen]
+1. **Einladungslink** verwenden: [https://discord.com/oauth2/authorize?client_id=1400149716385267835&permissions=2147568640&integration_type=0&scope=applications.commands+bot]
 2. **Admin-Berechtigungen** gewähren für den gewünschten Kanal
 3. **Setup durchführen** mit `/setup`
 
