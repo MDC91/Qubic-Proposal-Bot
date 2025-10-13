@@ -72,7 +72,7 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 
 ### 🤖 Automatische Proposal-Erkennung
 - **15-Minuten-Intervall** - Regelmäßige Überprüfung auf neue Proposals
-- **Epoch-basierte Verarbeitung** - Separate Zustandsverwaltung pro Epoche
+- **Epochen-basierte Verarbeitung** - Separate Zustandsverwaltung pro Epoche
 - **Duplikatserkennung** - Verhindert mehrfache Benachrichtigungen
 
 ### 🧠 Intelligente KI-Zusammenfassungen
@@ -81,9 +81,9 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 - **Cache-Mechanismus** - Vermeidet doppelte AI-Aufrufe für dieselben Proposals
 
 ### 🔄 Robuste State-Verwaltung
-- **Per-Server/Per-Chat State** - Jede Community verwaltet ihren eigenen Status
+- **Per-Server/Per-Chat State** - Jede Community wird durch ihren eigenen Status verwaltet
 - **GitHub-Persistenz** - Zustände bleiben über Neustarts hinweg erhalten
-- **Automatische Bereinigung** - Entfernt veraltete Epoch-Daten
+- **Automatische Bereinigung** - Entfernt veraltete Epochen-Daten
 
 ### 🌐 Multi-Plattform Support
 - **Nahtlose Discord-Integration** - Slash-Commands und Embed-Nachrichten
