@@ -106,6 +106,21 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 > - `channel`: Der Kanal für Proposal-Zusammenfassungen
 > - `language`: Sprache für die Zusammenfassungen
 
+```text
+🤖 BEFEHL: /setup - Bot konfigurieren
+─────────────────────────────────────
+Beschreibung: Richtet den Bot für Ihren Server ein
+Parameter:
+  • channel:  Der Kanal für Proposal-Zusammenfassungen
+  • language: Sprache für die Zusammenfassungen
+
+Beispiel: /setup channel: #proposals language: 🇩🇪 Deutsch
+```
+
+| **Befehl** | **Beschreibung** | **Parameter** |
+|------------|------------------|---------------|
+| ⚙️ `/setup` | Richtet den Bot für Ihren Server ein | • `channel`: Der Kanal für Proposal-Zusammenfassungen<br>• `language`: Sprache für die Zusammenfassungen |
+
 **<ins>`/info` - Bot-Status anzeigen</ins>**\
 **Beschreibung:** Zeigt detaillierte Informationen über den Bot-Status  
 
