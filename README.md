@@ -120,12 +120,7 @@ Beispiel: /setup channel: #proposals language: 🇩🇪 Deutsch
 | **Befehl** | **Beschreibung** | **Parameter** |
 |------------|------------------|---------------|
 | ⚙️ `/setup` | Richtet den Bot für Ihren Server ein | • `channel`: Der Kanal für Proposal-Zusammenfassungen<br>• `language`: Sprache für die Zusammenfassungen |
-| ℹ️ `/info`  | Zeigt detaillierte Informationen über den Bot-Status | • Konfigurierter Kanal und Sprache
-• Aktuelle Epoche
-• Anzahl aktiver Proposals
-• DeepSeek API Status
-• Bot Uptime
-• Check-Interval |
+| ℹ️ `/info`  | Zeigt detaillierte Informationen über den Bot-Status | • Konfigurierter Kanal und Sprache<br>• Aktuelle Epoche<br>• Anzahl aktiver Proposals<br>• DeepSeek API Status<br>• Bot Uptime<br>• Check-Interval |
 
 **<ins>`/info` - Bot-Status anzeigen</ins>**\
 **Beschreibung:** Zeigt detaillierte Informationen über den Bot-Status  
