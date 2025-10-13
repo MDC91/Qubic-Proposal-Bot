@@ -52,21 +52,21 @@ Der Bot basiert auf einer robusten Multi-Plattform-Architektur:
 
 Der Bot unterstützt derzeit **13 Sprachen**:
 
-| Sprache | Flagge | Code |
-|---------|--------|------|
-| Deutsch | 🇩🇪 | `de` |
-| Englisch | 🇺🇸 | `en` |
-| Französisch | 🇫🇷 | `fr` |
-| Spanisch | 🇪🇸 | `es` |
-| Italienisch | 🇮🇹 | `it` |
-| Portugiesisch | 🇵🇹 | `pt` |
-| Russisch | 🇷🇺 | `ru` |
-| Japanisch | 🇯🇵 | `ja` |
-| Chinesisch | 🇨🇳 | `zh` |
-| Koreanisch | 🇰🇷 | `ko` |
-| Arabisch | 🇦🇪 | `ar` |
-| Türkisch | 🇹🇷 | `tr` |
-| Vietnamesisch | 🇻🇳 | `vi` |
+| Sprache | Code |
+|---------|------|
+| Deutsch | `de` |
+| Englisch | `en` |
+| Französisch | `fr` |
+| Spanisch | `es` |
+| Italienisch | `it` |
+| Portugiesisch | `pt` |
+| Russisch | `ru` |
+| Japanisch | `ja` |
+| Chinesisch | `zh` |
+| Koreanisch | `ko` |
+| Arabisch | `ar` |
+| Türkisch | `tr` |
+| Vietnamesisch | `vi` |
 
 ## 🎯 Funktionen im Detail
 
