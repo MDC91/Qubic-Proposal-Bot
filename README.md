@@ -8,7 +8,6 @@
 </div>
 
 ## 📖 Inhaltsverzeichnis
----
 
 - [🚀 Über das Projekt](#-über-das-projekt)
 - [🏗️ Architektur & Technologie](#️-architektur--technologie)
@@ -27,7 +26,6 @@
 
 
 ## 🚀 Über das Projekt
----
 
 Der **Qubic Proposal Bot** ist ein speziell für die Qubic-Community entwickelter Bot, der automatisch neue Governance-Proposals erkennt, mittels KI in 13 verschiedenen Sprachen zusammenfasst und in Discord-Servern und Telegram-Gruppen veröffentlicht.
 
@@ -104,16 +102,10 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 
 | **Befehl** | **Beschreibung** | **Parameter** |
 |------------|------------------|---------------|
+| ❔ `/help`   | Hilfe anzeigen | Ausführliche Hilfe und Anleitung |
 | ⚙️ `/setup` | Richtet den Bot für Ihren Server ein | • `channel`: Der Kanal für Proposal-Zusammenfassungen<br>• `language`: Sprache für die Zusammenfassungen |
 | ℹ️ `/info`  | Zeigt detaillierte Informationen über den Bot-Status | • Konfigurierter Kanal und Sprache<br>• Aktuelle Epoche<br>• Anzahl aktiver Proposals<br>• DeepSeek API Status<br>• Bot Uptime<br>• Check-Interval |
-| ❔ `/help`   | Hilfe anzeigen | Ausführliche Hilfe und Anleitung |
 
-
-#### `/test_check` - Manuelle Proposal-Überprüfung
-**Beschreibung:** Löst eine sofortige Proposal-Überprüfung für diesen Server aus 
-
-#### `/test_results` - Manuelle Results-Überprüfung
-**Beschreibung:** Löst eine sofortige Results-Überprüfung für die letzte Epoche aus  
 
 
 ## 📱 Telegram Verwendung
@@ -127,37 +119,10 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 
 | **Befehl** | **Beschreibung** | **Parameter** |
 |------------|------------------|---------------|
-| ❔ `/start` oder `/help` | Startet den Bot und zeigt ausführliche Hilfe | |
+| ❔ `/start` oder `/help` | Hilfe anzeigen | Ausführliche Hilfe und Anleitung |
 | ⚙️ `/setup` | Öffnet ein Inline Keyboard zur Sprachauswahl | 1. Befehl `/setup` senden<br>2. Inline Keyboard mit Sprachoptionen erscheint<br>3. Gewünschte Sprache auswählen<br>4. Bot bestätigt die Einrichtung |
 | ℹ️ `/info`  | Zeigt detaillierte Informationen über den Bot-Status | • Konfigurierter Chat und Sprache<br>• Aktuelle Epoche<br>• Anzahl aktiver Proposals<br>• DeepSeek API Status<br>• Bot Uptime<br>• Check-Interval |
 
-  
-
-
-
-
-#### `/test_check` - Manuelle Proposal-Überprüfung
-**Beschreibung:** Startet sofortige Proposal-Überprüfung für diese Gruppe  
-
-#### `/test_results` - Manuelle Results-Überprüfung
-**Beschreibung:** Startet sofortige Results-Überprüfung für letzte Epoche 
-
-
-## ⚙️ Konfiguration
-
-### Server/Kanal Konfiguration
-
-Jeder Server/Telegram-Chat kann unabhängig konfiguriert werden:
-
-**Discord Beispiel-Konfiguration:**
-```json
-{
-  "123456789012345678": {
-    "channel_id": "987654321098765432",
-    "language": "de"
-  }
-}
-```
 
 ## ⚙️ State Management
 
@@ -182,14 +147,11 @@ A: Ja, einfach erneut `/setup` verwenden. Bereits verarbeitete Proposals werden 
 
 ### 🔧 Technische Fragen
 
-**Q: Warum werden manchmal Proposals doppelt gepostet?**  
-A: Dies sollte normalerweise nicht vorkommen. Falls doch, verwenden Sie `/test_check` um den State zu synchronisieren.
-
 **Q: Der Bot antwortet nicht auf Befehle - was tun?**  
 A: Stellen Sie sicher, dass der Bot die notwendigen Berechtigungen hat und versuchen Sie den Befehl erneut.
 
 **Q: Wie werden Voting-Ergebnisse angekündigt?**  
-A: Jeden Mittwoch um 12:00 UTC werden die Ergebnisse der vorherigen Epoche automatisch gepostet.
+A: Jeden Mittwoch um 12:15 UTC werden die Ergebnisse der vorherigen Epoche automatisch gepostet.
 
 ### 🌐 Plattform-spezifische Fragen
 
