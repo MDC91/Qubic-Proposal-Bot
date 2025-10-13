@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### **Automatische Proposal-Zusammenfassungen<br>für die Qubic-Community in 13 Sprachen**
+## **Automatische Proposal-Zusammenfassungen<br>für die Qubic-Community in 13 Sprachen**
  
 <img width="250" height="250" alt="icon" src="https://github.com/user-attachments/assets/73fc87fc-0a95-4ae4-bb63-0b45b89d808e" />
 
