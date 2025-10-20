@@ -2,11 +2,11 @@
 
 # 🤖 Bot de Propuestas Qubic
 
-### **Resúmenes Automáticos de Propuestas<br>para la Comunidad Qubic en 13 Idiomas**
+### **Resúmenes Automáticos de Propuestas para la Comunidad Qubic en 13 Idiomas**
 
 <img width="250" height="250" alt="icon_2" src="https://github.com/user-attachments/assets/c960ae79-b84e-4b65-b540-360528faf126" />
----  
 
+---  
 </div>
 
 ## 📖 Tabla de Contenidos
