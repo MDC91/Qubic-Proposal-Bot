@@ -1,11 +1,12 @@
-# 🤖 Qubic 提案机器人
-
 <div align="center">
 
-### **自动提案摘要<br>为 Qubic 社区提供 13 种语言支持**
+# 🤖 Qubic 提案机器人
+
+### **自动提案摘要 为 Qubic 社区提供 13 种语言支持**
 
 <img width="250" height="250" alt="icon_2" src="https://github.com/user-attachments/assets/c960ae79-b84e-4b65-b540-360528faf126" />
 
+---  
 </div>
 
 ## 📖 目录
@@ -182,7 +183,7 @@
 
 <div align="center">
 
-**🤝 为 Qubic 社区而建的项目**  
+**🌍 为 Qubic 社区而建的项目**  
 *让每个人都能以每种语言访问提案*
 
 </div>
