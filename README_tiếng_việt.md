@@ -1,11 +1,12 @@
-# 🤖 Bot Đề Xuất Qubic
-
 <div align="center">
 
-### **Tóm Tắt Đề Xuất Tự Động<br>Cho Cộng Đồng Qubic Bằng 13 Ngôn Ngữ**
+# 🤖 Bot Đề Xuất Qubic
+
+### **Tóm Tắt Đề Xuất Tự Động Cho Cộng Đồng Qubic Bằng 13 Ngôn Ngữ**
 
 <img width="250" height="250" alt="icon_2" src="https://github.com/user-attachments/assets/c960ae79-b84e-4b65-b540-360528faf126" />
 
+---  
 </div>
 
 ## 📖 Mục Lục
@@ -182,7 +183,7 @@ Vui lòng đảm bảo bạn có sẵn thông tin sau:
 
 <div align="center">
 
-**🤝 Một Dự Án Cho Cộng Đồng Qubic**  
+**🌍 Một Dự Án Cho Cộng Đồng Qubic**  
 *Giúp mọi người có thể tiếp cận đề xuất bằng mọi ngôn ngữ*
 
 </div>
