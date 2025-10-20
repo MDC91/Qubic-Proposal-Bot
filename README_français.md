@@ -2,10 +2,11 @@
 
 <div align="center">
 
-### **Résumés Automatiques des Propositions<br>pour la Communauté Qubic en 13 Langues**
+### **Résumés Automatiques des Propositions pour la Communauté Qubic en 13 Langues**
 
 <img width="250" height="250" alt="icon_2" src="https://github.com/user-attachments/assets/c960ae79-b84e-4b65-b540-360528faf126" />
 
+--- 
 </div>
 
 ## 📖 Table des Matières
@@ -182,7 +183,7 @@ Veuillez vous assurer d'avoir les informations suivantes prêtes :
 
 <div align="center">
 
-**🤝 Un Projet pour la Communauté Qubic**  
+**🌍 Un Projet pour la Communauté Qubic**  
 *Rendre les propositions accessibles à tous, dans toutes les langues*
 
 </div>
