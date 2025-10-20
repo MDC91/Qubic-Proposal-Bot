@@ -1,11 +1,12 @@
-# 🤖 Bot Proposte Qubic
-
 <div align="center">
 
-### **Riepilogo Automatico delle Proposte<br>per la Comunità Qubic in 13 Lingue**
+# 🤖 Bot Proposte Qubic
+
+### **Riepilogo Automatico delle Proposte per la Comunità Qubic in 13 Lingue**
 
 <img width="250" height="250" alt="icon_2" src="https://github.com/user-attachments/assets/c960ae79-b84e-4b65-b540-360528faf126" />
 
+---  
 </div>
 
 ## 📖 Indice dei Contenuti
@@ -182,7 +183,7 @@ Assicurati di avere le seguenti informazioni pronte:
 
 <div align="center">
 
-**🤝 Un Progetto per la Comunità Qubic**  
+**🌍 Un Progetto per la Comunità Qubic**  
 *Rendere le proposte accessibili a tutti, in ogni lingua*
 
 </div>
