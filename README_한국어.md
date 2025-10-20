@@ -2,7 +2,7 @@
 
 # 🤖 Qubic 제안 봇
 
-### **13개 언어로 제공되는<br>Qubic 커뮤니티를 위한 자동 제안 요약**
+### **13개 언어로 제공되는 Qubic 커뮤니티를 위한 자동 제안 요약**
 
 <img width="250" height="250" alt="icon_2" src="https://github.com/user-attachments/assets/c960ae79-b84e-4b65-b540-360528faf126" />
 
