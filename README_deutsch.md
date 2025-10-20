@@ -190,6 +190,6 @@ Bitte stellen Sie sicher, dass Sie folgende Informationen bereithalten:
 <div align="center">
 
 **🌍 Ein Projekt für die Qubic-Community**  
-*Making proposals accessible to everyone, in every language*
+*Proposals für alle zugänglich machen, in jeder Sprache*
 
 </div>
