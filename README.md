@@ -2,12 +2,12 @@
   
 # 🤖 Qubic Proposal Bot
 
-### **Automatic Proposal Summaries<br>for the Qubic Community in 13 Languages**
+### **Automatic Proposal Summaries for the Qubic Community in 13 Languages**
 
 <img width="250" height="250" alt="icon_2" src="https://github.com/user-attachments/assets/c960ae79-b84e-4b65-b540-360528faf126" />
 
 </div>
-___
+---  
 
 ## 📖 Table of Contents
 
@@ -183,7 +183,7 @@ Please make sure you have the following information ready:
 
 <div align="center">
 
-**🤝 A Project for the Qubic Community**  
+**🌍 A Project for the Qubic Community**  
 *Making proposals accessible to everyone, in every language*
 
 </div>
