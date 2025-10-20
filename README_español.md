@@ -1,10 +1,11 @@
-# 🤖 Bot de Propuestas Qubic
-
 <div align="center">
+
+# 🤖 Bot de Propuestas Qubic
 
 ### **Resúmenes Automáticos de Propuestas<br>para la Comunidad Qubic en 13 Idiomas**
 
 <img width="250" height="250" alt="icon_2" src="https://github.com/user-attachments/assets/c960ae79-b84e-4b65-b540-360528faf126" />
+---  
 
 </div>
 
@@ -182,7 +183,7 @@ Por favor asegúrate de tener la siguiente información lista:
 
 <div align="center">
 
-**🤝 Un Proyecto para la Comunidad Qubic**  
+**🌍 Un Proyecto para la Comunidad Qubic**  
 *Haciendo las propuestas accesibles para todos, en todos los idiomas*
 
 </div>
