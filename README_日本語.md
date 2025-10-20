@@ -1,11 +1,12 @@
-# 🤖 Qubic提案ボット
-
 <div align="center">
 
-### **13言語対応の自動提案要約<br>Qubicコミュニティのための**
+# 🤖 Qubic提案ボット
+
+### **13言語対応の自動提案要約 Qubicコミュニティのための**
 
 <img width="250" height="250" alt="icon_2" src="https://github.com/user-attachments/assets/c960ae79-b84e-4b65-b540-360528faf126" />
 
+---  
 </div>
 
 ## 📖 目次
@@ -182,7 +183,7 @@ A: ボットはメッセージ送信、リンク埋め込み、スラッシュ�
 
 <div align="center">
 
-**🤝 Qubicコミュニティのためのプロジェクト**  
+**🌍 Qubicコミュニティのためのプロジェクト**  
 *提案をすべての人に、すべての言語でアクセス可能に*
 
 </div>
