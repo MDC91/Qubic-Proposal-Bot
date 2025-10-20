@@ -1,11 +1,12 @@
-# 🤖 Qubic 제안 봇
-
 <div align="center">
+
+# 🤖 Qubic 제안 봇
 
 ### **13개 언어로 제공되는<br>Qubic 커뮤니티를 위한 자동 제안 요약**
 
 <img width="250" height="250" alt="icon_2" src="https://github.com/user-attachments/assets/c960ae79-b84e-4b65-b540-360528faf126" />
 
+---  
 </div>
 
 ## 📖 목차
@@ -182,7 +183,7 @@ A: 봇은 메시지 전송, 링크 임베드, 슬래시 명령어 사용 권한�
 
 <div align="center">
 
-**🤝 Qubic 커뮤니티를 위한 프로젝트**  
+**🌍 Qubic 커뮤니티를 위한 프로젝트**  
 *모든 언어로 모든 사람이 제안에 접근할 수 있도록*
 
 </div>
