@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Qubic 提案机器人
+# 🤖 Qubic Proposal Bot
 
 ### **自动提案摘要 为 Qubic 社区提供 13 种语言支持**
 
