@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Bot de Propostas Qubic
+# 🤖 Qubic Proposal Bot
 
 ### **Resumos Automáticos de Propostas para a Comunidade Qubic em 13 Idiomas**
 
