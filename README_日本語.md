@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Qubic提案ボット
+# 🤖 Qubic Proposal Bot
 
 ### **13言語対応の自動提案要約 Qubicコミュニティのための**
 
