@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Bot Đề Xuất Qubic
+# 🤖 Qubic Proposal Bot
 
 ### **Tóm Tắt Đề Xuất Tự Động Cho Cộng Đồng Qubic Bằng 13 Ngôn Ngữ**
 
