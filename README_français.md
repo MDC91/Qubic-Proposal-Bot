@@ -115,7 +115,7 @@ Le bot supporte actuellement **13 langues** :
 4. **Ajouter au groupe** en tant qu'administrateur
 5. **Activer** "Gérer les sujets" <br>
 
-<img width="363" height="621" alt="droits_admin" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
+<img width="358" height="629" alt="admin_french" src="https://github.com/user-attachments/assets/c9142ad0-52fb-4f7c-bb8c-67d9fbea2453" />
 
 6. **Effectuer la configuration** avec `/setup`
 
