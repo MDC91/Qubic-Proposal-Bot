@@ -115,7 +115,7 @@
 4. **Добавить в группу** как администратор
 5. **Включить** "Управление темами" <br>
 
-<img width="363" height="621" alt="права_администратора" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
+<img width="363" height="646" alt="admin_russian" src="https://github.com/user-attachments/assets/f12f1c3f-a120-4275-a76a-87549cda7b89" />
 
 6. **Выполнить настройку** с помощью `/setup`
 
