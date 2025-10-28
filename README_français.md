@@ -108,15 +108,19 @@ Le bot supporte actuellement **13 langues** :
 
 ## 📱 Utilisation Telegram
 
-### Ajouter le Bot à Votre Groupe
+### Ajouter le bot à votre groupe
 1. **Gérer le groupe**
 2. **Ajouter des membres**
 3. **Rechercher le bot :** `@QubicTranslationBot`
 4. **Ajouter au groupe** en tant qu'administrateur
-5. **Effectuer la configuration** dans le chat souhaité avec `/setup`
+5. **Activer** "Gérer les sujets" <br>
+
+<img width="363" height="621" alt="droits_admin" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
+
+6. **Effectuer la configuration** avec `/setup`
 
 > [!IMPORTANT]
-> La commande `/setup` <ins>**doit**</ins> être utilisée dans le chat où les résumés doivent être publiés.
+> La commande `/setup` crée le nouveau sujet "Proposals". Vous pouvez renommer le sujet ultérieurement. Le bot utilise le chat principal comme solution de secours si aucun droit d'administration n'est accordé.
 
 ### Commandes Telegram
 
