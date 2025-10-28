@@ -109,14 +109,18 @@ Bot şu anda **13 dili** desteklemektedir:
 ## 📱 Telegram Kullanımı
 
 ### Botu Grubunuza Ekleyin
-1. **Grubu yönetin**
-2. **Üye ekleyin**
-3. **Botu arayın:** `@QubicTranslationBot`
-4. Yönetici olarak **gruba ekleyin**
-5. İstenen sohbette `/setup` ile **kurulum yapın**
+1. **Grubu yönet**
+2. **Üye ekle**
+3. **Bot ara:** `@QubicTranslationBot`
+4. **Gruba yönetici olarak ekle**
+5. **"Konuları yönet"i etkinleştir** <br>
+
+<img width="363" height="621" alt="yönetici_hakları" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
+
+6. **Kurulumu gerçekleştir** `/setup` ile
 
 > [!IMPORTANT]
-> `/setup` komutu özetlerin gönderilmesi gereken sohbette <ins>**mutlaka**</ins> kullanılmalıdır.
+> `/setup` komutu yeni "Proposals" konusunu oluşturur. Konuyu daha sonra yeniden adlandırabilirsiniz. Yönetici hakları verilmezse bot ana sohbeti yedek olarak kullanır.
 
 ### Telegram Komutları
 
