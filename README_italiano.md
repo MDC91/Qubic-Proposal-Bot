@@ -106,17 +106,19 @@ Il bot supporta attualmente **13 lingue**:
 | ⚙️ `/setup` | Configura il bot per il tuo server | • `channel`: Il canale per i riassunti delle proposte<br>• `language`: Lingua per i riassunti |
 | ℹ️ `/info` | Mostra informazioni dettagliate sullo stato del bot | • Canale e lingua configurati<br>• Epoca attuale<br>• Numero di proposte attive<br>• Stato API DeepSeek<br>• Tempo di attività del bot<br>• Intervallo di verifica |
 
-## 📱 Utilizzo Telegram
-
-### Aggiungere il Bot al Tuo Gruppo
+### Aggiungi il bot al tuo gruppo
 1. **Gestisci gruppo**
 2. **Aggiungi membri**
-3. **Cerca il bot:** `@QubicTranslationBot`
+3. **Cerca bot:** `@QubicTranslationBot`
 4. **Aggiungi al gruppo** come amministratore
-5. **Esegui la configurazione** nella chat desiderata con `/setup`
+5. **Abilita** "Gestisci argomenti" <br>
+
+<img width="363" height="621" alt="diritti_admin" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
+
+6. **Esegui configurazione** con `/setup`
 
 > [!IMPORTANT]
-> Il comando `/setup` <ins>**deve**</ins> essere utilizzato nella chat dove verranno pubblicati i riassunti.
+> Il comando `/setup` crea il nuovo argomento "Proposals". Puoi rinominare l'argomento in seguito. Il bot utilizza la chat principale come fallback se non vengono concessi i diritti di amministratore.
 
 ### Comandi Telegram
 
