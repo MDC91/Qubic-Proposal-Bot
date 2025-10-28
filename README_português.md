@@ -106,17 +106,19 @@ O bot suporta atualmente **13 idiomas**:
 | ⚙️ `/setup` | Configura o bot para seu servidor | • `channel`: O canal para resumos de propostas<br>• `language`: Idioma para os resumos |
 | ℹ️ `/info` | Mostra informações detalhadas do estado do bot | • Canal e idioma configurados<br>• Época atual<br>• Número de propostas ativas<br>• Estado da API DeepSeek<br>• Tempo de atividade do bot<br>• Intervalo de verificação |
 
-## 📱 Uso no Telegram
-
-### Adicionar o Bot ao Seu Grupo
+### Adicionar bot ao seu grupo
 1. **Gerenciar grupo**
 2. **Adicionar membros**
-3. **Buscar bot:** `@QubicTranslationBot`
+3. **Pesquisar bot:** `@QubicTranslationBot`
 4. **Adicionar ao grupo** como administrador
-5. **Executar configuração** no chat desejado com `/setup`
+5. **Ativar** "Gerenciar tópicos" <br>
+
+<img width="363" height="621" alt="direitos_admin" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
+
+6. **Executar configuração** com `/setup`
 
 > [!IMPORTANT]
-> O comando `/setup` <ins>**deve**</ins> ser usado no chat onde os resumos serão publicados.
+> O comando `/setup` cria o novo tópico "Proposals". Você pode renomear o tópico posteriormente. O bot usa o chat principal como fallback se nenhum direito de administrador for concedido.
 
 ### Comandos do Telegram
 
