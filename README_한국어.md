@@ -115,7 +115,7 @@
 4. **관리자로 그룹에 추가**
 5. **"주제 관리" 활성화** <br>
 
-<img width="363" height="621" alt="관리자_권한" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
+<img width="358" height="609" alt="admin_korean" src="https://github.com/user-attachments/assets/6b302b19-4f76-4e54-93bb-67d3f08fc808" />
 
 6. **설정 수행** `/setup`으로
 
