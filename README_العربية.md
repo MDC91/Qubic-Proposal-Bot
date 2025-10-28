@@ -116,7 +116,8 @@
 5. **تمكين** "إدارة المواضيع" <br>
 <div align="right">
 <img width="363" height="621" alt="صلاحيات_المسؤول" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
-</div>div>
+</div>
+
 6. **إجراء الإعداد** باستخدام `/setup`
 
 > [!IMPORTANT]
