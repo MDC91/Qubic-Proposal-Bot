@@ -121,7 +121,7 @@ The bot currently supports **13 languages**:
 6. **Perform setup** with `/setup`
 
 > [!IMPORTANT]
-> The `/setup` command is creating the new topic "Proposals". You can rename the topic afterwards. The bot uses the main chat as a fallback, if now admin rights are granted.
+> The `/setup` command is creating the new topic "Proposals". You can rename the topic afterwards. The bot uses the main chat as a fallback, if no admin rights are granted.
 
 ### Telegram Commands
 
