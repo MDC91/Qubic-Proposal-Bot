@@ -108,15 +108,19 @@ Bot hiện hỗ trợ **13 ngôn ngữ**:
 
 ## 📱 Sử Dụng Telegram
 
-### Thêm Bot Vào Nhóm Của Bạn
+### Thêm bot vào nhóm của bạn
 1. **Quản lý nhóm**
 2. **Thêm thành viên**
 3. **Tìm kiếm bot:** `@QubicTranslationBot`
 4. **Thêm vào nhóm** với tư cách quản trị viên
-5. **Thực hiện thiết lập** trong cuộc trò chuyện mong muốn với `/setup`
+5. **Bật** "Quản lý chủ đề" <br>
+
+<img width="363" height="621" alt="quyền_quản_trị" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
+
+6. **Thực hiện thiết lập** với `/setup`
 
 > [!IMPORTANT]
-> Lệnh `/setup` <ins>**phải**</ins> được sử dụng trong cuộc trò chuyện nơi cần đăng tóm tắt.
+> Lệnh `/setup` tạo chủ đề mới "Proposals". Bạn có thể đổi tên chủ đề sau này. Bot sử dụng trò chuyện chính làm phương án dự phòng nếu không được cấp quyền quản trị.
 
 ### Lệnh Telegram
 
