@@ -113,8 +113,10 @@ The bot currently supports **13 languages**:
 2. **Add members**
 3. **Search for bot:** `@QubicTranslationBot`
 4. **Add to group** as administrator
-5. **Enable "Manage Topics"
-   <img width="365" height="621" alt="admin_rights" src="https://github.com/user-attachments/assets/11868378-7d46-44c2-a457-44719213bb10" />
+5. **Enable** "Manage Topics" <br>
+
+<img width="363" height="621" alt="admin_rights" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
+
 
 7. **Perform setup** with `/setup`
 
