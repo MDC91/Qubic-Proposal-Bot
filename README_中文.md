@@ -108,15 +108,19 @@
 
 ## 📱 Telegram 使用
 
-### 添加机器人到群组
+### 将机器人添加到您的群组
 1. **管理群组**
 2. **添加成员**
 3. **搜索机器人:** `@QubicTranslationBot`
-4. **添加到群组** 作为管理员
-5. 在所需聊天中使用 `/setup` 执行 **设置**
+4. **作为管理员添加到群组**
+5. **启用** "管理主题" <br>
+
+<img width="363" height="621" alt="管理员权限" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
+
+6. **执行设置** 使用 `/setup`
 
 > [!IMPORTANT]
-> `/setup` 命令 <ins>**必须**</ins> 在要发布摘要的聊天中使用。
+> `/setup` 命令会创建新主题 "Proposals"。您之后可以重命名该主题。如果未授予管理员权限，机器人将使用主聊天作为备用方案。
 
 ### Telegram 命令
 
