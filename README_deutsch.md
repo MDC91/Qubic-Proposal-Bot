@@ -122,7 +122,7 @@ Der Bot unterstützt derzeit **13 Sprachen**:
 
 6. **Setup durchführen** mit `/setup`
 
-> [!WICHTIG]
+> [!IMPORTANT]
 > Der `/setup` Befehl erstellt das neue Thema "Proposals". Sie können das Thema später umbenennen. Der Bot verwendet den Haupt-Chat als Fallback, wenn keine Admin-Rechte erteilt wurden.
 
 ### Telegram Befehle
