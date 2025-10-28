@@ -113,9 +113,9 @@ Bot şu anda **13 dili** desteklemektedir:
 2. **Üye ekle**
 3. **Bot ara:** `@QubicTranslationBot`
 4. **Gruba yönetici olarak ekle**
-5. **"Konuları yönet"i etkinleştir** <br>
+5. **"Konuları yönetme"i etkinleştir** <br>
 
-<img width="363" height="621" alt="yönetici_hakları" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
+<img width="357" height="613" alt="admin_turkish" src="https://github.com/user-attachments/assets/b4313a71-8f86-4eb2-b55b-af4cef51b56b" />
 
 6. **Kurulumu gerçekleştir** `/setup` ile
 
