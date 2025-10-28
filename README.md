@@ -113,10 +113,13 @@ The bot currently supports **13 languages**:
 2. **Add members**
 3. **Search for bot:** `@QubicTranslationBot`
 4. **Add to group** as administrator
-5. **Perform setup** in the desired chat with `/setup`
+5. **Enable "Manage Topics"
+   <img width="365" height="621" alt="admin_rights" src="https://github.com/user-attachments/assets/11868378-7d46-44c2-a457-44719213bb10" />
+
+7. **Perform setup** with `/setup`
 
 > [!IMPORTANT]
-> The `/setup` command <ins>**must**</ins> be used in the chat where summaries should be posted.
+> The `/setup` command is creating the new topic "Proposals". You can rename the topic afterwards.
 
 ### Telegram Commands
 
