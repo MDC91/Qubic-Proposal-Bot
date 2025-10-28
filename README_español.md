@@ -119,7 +119,7 @@ El bot soporta actualmente **13 idiomas**:
 
 6. **Realizar configuración** con `/setup`
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > El comando `/setup` crea el nuevo tema "Proposals". Puedes renombrar el tema posteriormente. El bot utiliza el chat principal como respaldo si no se otorgan derechos de administrador.
 
 ### Comandos de Telegram
