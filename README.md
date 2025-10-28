@@ -118,7 +118,7 @@ The bot currently supports **13 languages**:
 <img width="363" height="621" alt="admin_rights" src="https://github.com/user-attachments/assets/f11920b4-213a-4361-aaf8-cd66f2fcc383" />
 
 
-7. **Perform setup** with `/setup`
+6. **Perform setup** with `/setup`
 
 > [!IMPORTANT]
 > The `/setup` command is creating the new topic "Proposals". You can rename the topic afterwards.
